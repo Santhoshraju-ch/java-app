@@ -13,6 +13,9 @@ class Demo{
 		System.out.println("div operator :"  + a/b);
 
 		System.out.println("end");
+System.out.println("check ec2");
+
+		
 
 		
 	}
