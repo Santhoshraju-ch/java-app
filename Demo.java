@@ -4,7 +4,7 @@ class Demo{
 		
 		
 		int a=10; int b=20;
-                System.out.println("start");
+        System.out.println("start");
 		
 		System.out.println(a+b);
 
